@@ -1,0 +1,9 @@
+<div id="quicklinks">
+    <ul>
+       <Li><a href ="#">Home</a><li>
+       <Li><a href ="#">About</a><li>
+       <Li><a href ="#">RGYou</a><li>
+       <Li><a href ="#">Staff & Current Students</a></Li>
+        <Li><a href ="#">A to Z</a></Li>
+       </ul>
+</div>  
